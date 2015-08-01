@@ -1,0 +1,11 @@
+{
+	"name": "wavefront-obj",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, amil",
+	"license": "MIT",
+	"authors": ["amil"],
+	"targetType": "library",
+	"dependencies": {
+		"utga": ">=0.0.1"
+	}
+}
