@@ -34,7 +34,7 @@ struct Vec2(T) {
 
 	Vec2!T opBinary(string op)(float f) if (op == "*")
 	{
-		return Vec2!T(cast(T)x*f, cast(T)y*f);
+		return Vec2!T(cast(T)(x*f), cast(T)(y*f));
 	}
 
 	string toString()

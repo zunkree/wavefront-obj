@@ -1,9 +1,9 @@
 {
 	"name": "wavefront-obj",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, amil",
+	"description": "A very small Wavefront .obj file format library.",
+	"copyright": "Copyright © 2015, Alexander Milushev <zunkree@gmail.com>",
 	"license": "MIT",
-	"authors": ["amil"],
+	"authors": ["Alexander Milushev <zunkree@gmail.com>"],
 	"targetType": "library",
 	"dependencies": {
 		"utga": ">=0.0.1"

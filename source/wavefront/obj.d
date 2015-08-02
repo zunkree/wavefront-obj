@@ -62,4 +62,10 @@ public:
 	{
 		return verts_[idx];
 	}
+
+	@property
+	auto faces()
+	{
+		return faces_;
+	}
 }
